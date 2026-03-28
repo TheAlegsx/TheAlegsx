@@ -1,26 +1,33 @@
 # Hi, I'm Alex 👋
 
-I'm a finance student based in Zurich, Switzerland, with a strong interest in Python, AI-assisted project building, and structured workflow design.
+I'm a Master's student in Banking & Finance at the University of Zurich (UZH), currently working as an Auditor at KPMG Switzerland. I'm interested in the intersection of finance, data, and technology — and use GitHub to build, document, and iterate on Python-based projects and AI-assisted workflows.
 
 ## What I'm working on
 
-- building Python-based finance projects
+- building Python-based finance and research projects
 - designing AI-assisted workflows and architectures
 - using GitHub to document, version, and improve projects in a structured way
 - developing cleaner research and project systems
 
 ## Areas I'm interested in
 
-- finance
-- data-driven research
-- workflows and architectures
-- project systems
-- backtesting
+- banking & finance
+- quantitative research & backtesting
+- financial modeling & valuation
+- workflows, architectures and project systems
+- audit & regulatory frameworks
 
 ## Tools I'm using
 
 `Python` `Jupyter` `Markdown` `Git` `GitHub`
 
-## Approach
+## Background
 
-I use GitHub as a platform to structure, document, and iterate on projects — especially where AI-assisted building, workflows, and architecture design play an important role.
+- 🎓 MA Banking & Finance and Quantitative Finance — University of Zurich
+- 🏦 Auditor (Pension Funds & Corporates) — KPMG Switzerland
+- 📜 Licensed Auditor (RAB), Switzerland
+- 📍 Zurich, Switzerland
+
+## Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-weber-98390b12a)
