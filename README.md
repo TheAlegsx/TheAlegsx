@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**TheAlegsx/TheAlegsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a finance student based in Zurich, Switzerland, with a strong interest in Python, AI-assisted project building, and structured workflow design.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- building Python-based finance projects
+- designing AI-assisted workflows and architectures
+- using GitHub to document, version, and improve projects in a structured way
+- developing cleaner research and project systems
+
+## Areas I'm interested in
+
+- finance
+- data-driven research
+- workflows and architectures
+- project systems
+- backtesting
+
+## Tools I'm using
+
+`Python` `Jupyter` `Markdown` `Git` `GitHub`
+
+## Approach
+
+I use GitHub as a platform to structure, document, and iterate on projects — especially where AI-assisted building, workflows, and architecture design play an important role.
